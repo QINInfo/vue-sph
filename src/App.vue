@@ -5,7 +5,6 @@
     <Footer v-show="!$route.meta.isHidenFooter"></Footer>
   </div>
 </template>
-
 <script>
 import Footer from '@/components/Footer'
 import Header from '@/components/Header'
